@@ -8,7 +8,7 @@ categories:
   - enthusiasm
 ---
 
-[This post reflects my own views and no way reflects the views of any past, present, or future employer of mine.]
+[This post reflects my own views and in no way reflects the views of any past, present, or future employer of mine.]
 
 Recently, I was [reintroduced](http://news.ycombinator.com/item?id=5012432) to an article written by [Zed Shaw](http://zedshaw.com/) named [Deconstructing K&RC](http://c.learncodethehardway.org/book/krcritique.html) where he criticizes Brian Kernighan and Dennis Ritchie’s book, [The C Programming Language](http://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628).
 

@@ -8,10 +8,9 @@ categories:
   - enthusiasm
 ---
 
+[This post reflects my own views and in no way reflects the views of any past, present, or future employer of mine.]
 
 Recently, I was reintroduced to my enthusiasm for coding by a set of 4th graders I had just met. Something that was very timely and also something I would have never expected. I recommend you get involved.
-
-[This post reflects my own views and no way reflects the views of any past, present, or future employer of mine.]
 
 __My experience with the “Hour of Code” was highly rewarding.__ I was given the opportunity to introduce a subject near and dear to my heart to 4th grade girls and boys and it went better than I could have hoped. The students were attentive during the introductory material and all 28 of them were wholly engaged during the crucial time where they had to write their code. The excitement on their faces as they proclaimed how many lines of code they had just written was refreshing. That kind of delight from coding hasn’t been something I’ve seen or felt in a while. And, selfishly, that was the most gratifying thing of all.
 
