@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Speed Interviewing: A Dev's Cautionary Tale"
-date:   2015-12-18 10:00:00 -0700
+date:   2016-01-05 10:00:00 -0700
 categories: [recruiting, speed interviewing]
 ---
 
